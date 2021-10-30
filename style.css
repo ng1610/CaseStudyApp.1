@@ -1,0 +1,77 @@
+.heading{
+    text-align: center;
+    color: maroon;
+    font-family: sans-serif;
+    font-weight: 550;
+    font-size: 20px;
+}
+.image_and_result{
+    border-radius: 15px;
+    width: 95%;
+    background-color: gray;
+    margin-bottom: 15px;
+}
+img{
+    width: 300px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+#google_lens{
+    width: 100px;
+    height: 100px;
+}
+#google{
+    color: red;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 550px;
+}
+.btn-primary{
+    margin-left: 610px;
+    width: 110px;
+    margin-bottom: 10px;
+}
+#vs{
+    margin-left: 650px;
+}
+.mini_result{
+    margin-left: 200px;
+    text-align: center;
+    color: white;
+}
+.google_lens {
+    float:right;
+    background-color: white;
+    margin-top: 10px;
+    width: 300px;
+    margin-right: 90px;
+    border-radius: 15px;
+    height: 40px;
+    text-align: left;
+    padding-top: 2px;
+}
+.mobilenet{
+    float:right;
+    background-color: white;
+    margin-top: 10px;
+    width: 330px;
+    margin-right: 200px;
+    border-radius: 15px;
+    height: 40px;
+    text-align: left;
+    padding-top: 2px;
+}
+b{
+    color: purple;
+}
+hr{
+    width: 700px;
+}
+.overall_result{
+    color: purple;
+    width: 800px;
+    height: 80px;
+    background-color: rgb(35, 226, 226);
+    border: solid black 1px;
+}
+    
